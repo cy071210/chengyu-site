@@ -1,0 +1,11 @@
+# 编辑器 / 系统
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# 临时与构建产物
+*.log
+*.tmp
+.deepworks/tmp/
